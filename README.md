@@ -9,6 +9,26 @@
 <br>
 <br>
 
+## 개발내용
+#### 백엔드 개발
+▪ Spring Framework 기반 서비스 로직 설계 및 구현 <br>
+▪ 비동기식 통신으로 커뮤니티 게시판 CRUD 기능 개발 <br>
+▪ RestController 요청방식<br>
+▪ 파일업로드 기능 <br>
+
+#### 백엔드 개발
+▪ HTML, CSS, JavaScript를 이용한 UI/UX 구현 (대회소개, 대회개용, 공지사항, 코스안내) <br>
+▪ Bootstrap 3 기반 화면 구성 및 반응형 디자인 적용 <br>
+▪ 사용자 친화적인 UI/UX 설계<br>
+
+#### 시스템 설계 및 아키텍처
+▪ 전체 웹 애플리케이션 구조 설계 <br>
+▪ ERD 설계 및 DB 테이블 구축 
+
+<br>
+<br>
+
+
 ## 메인페이지
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d173e5e-ab3d-4e31-b2dc-979eae5d78ab" width="500" />
