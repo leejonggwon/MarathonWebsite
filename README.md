@@ -4,29 +4,16 @@
 #### 서비스설명
 ▪ 본 프로젝트는 스프링(Spring) 프레임워크를 기반으로 개발된 마라톤 참가자 중심 웹사이트로 <br>
 ▪ 마라톤 참가자가 온라인에서 대회 정보를 확인하고 참가자 간 커뮤니티 기능(게시판, 자유 토론 등)을 제공하여 원활한 소통을 지원하며 <br>
-▪ 이를 통해 참가자와 주최 측 모두에게 효율적이고 편리한 서비스를 제공하는 것을 목표로 합니다. <br>
+▪ 이를 통해 참가자와 주최 측 모두에게 효율적이고 편리한 서비스를 제공하는 것을 목표로 합니다. 
 
 <br>
 <br>
-#### 1. 이벤트 처리 (onclick 속성)
-▪ 버튼 클릭 시 함수(clicKLike, clickDislike)가 실행되도록 설정
-#### 2. DOM 조작 (getElementById, innerText, innerHTML)
-▪ document.getElementById 로 HTML 요소(like, icon)에 접근
-▪ innerText 로 숫자를 읽고 증가/감소
-▪ innerHTML 로 이모지(아이콘)를 변경
-#### 3. 데이터 처리 (parseInt, 조건문 if/else)
-▪ 문자열로 저장된 숫자를 parseInt 로 정수 변환
-▪ 조건문을 활용해 숫자 범위별로 아이콘 변경
-<br>
-<br>
 
-
-## 로또번호생성_ 실습용
+## 메인페이지
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a97f082-b835-4464-adb2-5517ca62f8b9" 
-       alt="로또번호생성실습" 
-       width="600" />
+  <img src="https://github.com/user-attachments/assets/6d173e5e-ab3d-4e31-b2dc-979eae5d78ab" width="500" />
 </p>
+
 
 <br>
 <br>
