@@ -53,4 +53,13 @@
 <br>
 <br>
 
+## 게시물등록 기능
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a3d3e14-6361-4042-a353-57f9c0eab9e9" width="500" />
+</p>
+
+<br>
+<br>
+
+
 
